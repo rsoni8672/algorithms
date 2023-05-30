@@ -16,6 +16,7 @@ class MyHashSet:
                 if key < self.dummy_set[index]:
                     self.dummy_set.insert(index, key)
                     break
+
     def remove(self, key: int) -> None:
         if key in self.dummy_set:
             self.dummy_set.remove(key)
