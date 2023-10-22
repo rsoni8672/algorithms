@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47641cfd-4f2b-4a4c-9189-8e3aef99d932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/1161_max_level_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/118_pascals_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/121_stock_buy_sell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/1512_good_pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/1732_max_peak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/2038_remove_coloured_pieces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/2090_k_radius_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/373_k_smallest_sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/53_maximum_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/73_set_matrix_zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/75_sort_colours.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +38,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.2352_equal_rows_cols">
-    <configuration name="1318_minimum_flips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.53_maximum_subarray">
+    <configuration name="118_pascals_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/1318_minimum_flips.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/118_pascals_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -51,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1371_negative_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1512_good_pair" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/1371_negative_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/1512_good_pair.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="228_summary_ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="53_maximum_subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/228_summary_ranges.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/53_maximum_subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2352_equal_rows_cols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="73_set_matrix_zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/2352_equal_rows_cols.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/73_set_matrix_zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="547_number_of_provinces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="75_sort_colours" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/547_number_of_provinces.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/75_sort_colours.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2352_equal_rows_cols" />
-        <item itemvalue="Python.228_summary_ranges" />
-        <item itemvalue="Python.1371_negative_numbers" />
-        <item itemvalue="Python.1318_minimum_flips" />
-        <item itemvalue="Python.547_number_of_provinces" />
+        <item itemvalue="Python.53_maximum_subarray" />
+        <item itemvalue="Python.75_sort_colours" />
+        <item itemvalue="Python.118_pascals_triangle" />
+        <item itemvalue="Python.73_set_matrix_zeroes" />
+        <item itemvalue="Python.1512_good_pair" />
       </list>
     </recent_temporary>
   </component>
