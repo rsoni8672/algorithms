@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47641cfd-4f2b-4a4c-9189-8e3aef99d932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/118_pascals_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/121_stock_buy_sell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/1512_good_pair.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/1732_max_peak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/2038_remove_coloured_pieces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/2090_k_radius_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/373_k_smallest_sums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/53_maximum_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/73_set_matrix_zeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/75_sort_colours.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="47641cfd-4f2b-4a4c-9189-8e3aef99d932" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
