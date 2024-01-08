@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47641cfd-4f2b-4a4c-9189-8e3aef99d932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/300_longest_increasing_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/229_majority_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/938_range_sum_bst.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
