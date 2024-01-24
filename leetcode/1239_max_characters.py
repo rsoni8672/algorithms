@@ -12,24 +12,31 @@ class Solution:
                     return element_index
         return -1
 
-    def maxLength(self, arr: List[str]) -> int:
-        output_str = ""
-        for index in range(0, len(arr)):
-            isStr = self.isStrPresent(output_str, arr[index])
-            isReplaced = False
-            if isStr != -1:
-                repeated_str = output_str.split('_')[isStr]
-                if len(arr[index]) > len(repeated_str):
-                    temp = output_str.split('_')
-                    temp[isStr] = arr[index]
-                    output_str = '_'.join(temp)
-                    # print("1 - ", output_str)
-                isReplaced = True
-            if not isReplaced:
-                output_str = output_str + arr[index] + "_"
-            # print("2 - ",  output_str)
+    def isStrOverlap(self, characters, current_str):
+        for character in current_str:
+            if character in characters:
+                return True
 
-        return len(output_str.replace('_', ""))
+        return len(current_str) != len(set(current_str))
+    def backtrack(self, characters, arr, index):
+        if index == len(arr):
+            return len(characters)
+        result = 0
+        if not self.isStrOverlap(characters, arr[index]):
+            for character in arr[index]:
+                characters.add(character)
+            result = self.backtrack(characters, arr, index+1)
+            for character in arr[index]:
+                characters.remove(character)
+        return max(result, self.backtrack(characters, arr, index+1))
+
+
+        result = 0
+    def maxLength(self, arr: List[str]) -> int:
+        characters = set()
+
+        backtrack(characters, arr, 0)
+
 
 
 if __name__ == "__main__":
