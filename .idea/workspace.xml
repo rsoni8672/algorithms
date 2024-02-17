@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47641cfd-4f2b-4a4c-9189-8e3aef99d932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/55_can_jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/872_leaf_similar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/114_flatten_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/128_longest_consecutive_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/146_lru_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/1481_least_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/204_count_primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/279_perfect_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/2149_rearrange_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/2966_array_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/2971_largest_perimeter_polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/368_largest_subset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/36_suduko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/48_rotate_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/dp/152_max_product_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/greedy/1642_farthest_building.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/greedy/2195_append_k_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/greedy/402_k_divisible_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/greedy/jump_game_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/greedy/large_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/sliding_window/209_minimum_size_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/sliding_window/718_lcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/stack/227_basic_calculator_2..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/strings/151_reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/strings/5_longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/strings/647_palindromic_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/strings/890_find_replace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +54,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.55_can_jump">
-    <configuration name="1235_job_scheduling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rahul\PycharmProjects\algorithms\leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.36_suduko">
+    <configuration name="1642_farthest_building" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/1235_job_scheduling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/greedy/1642_farthest_building.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2125_number_of_laser_beams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2195_append_k_integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/2125_number_of_laser_beams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/greedy/2195_append_k_integers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2610_1d_2d_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="36_suduko" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/2610_1d_2d_array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/arrays/36_suduko.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="300_longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="402_k_divisible_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/300_longest_increasing_subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/greedy/402_k_divisible_elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="55_can_jump" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="54_spiral_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode/arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/55_can_jump.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.55_can_jump" />
-        <item itemvalue="Python.1235_job_scheduling" />
-        <item itemvalue="Python.300_longest_increasing_subsequence" />
-        <item itemvalue="Python.2610_1d_2d_array" />
-        <item itemvalue="Python.2125_number_of_laser_beams" />
+        <item itemvalue="Python.36_suduko" />
+        <item itemvalue="Python.2195_append_k_integers" />
+        <item itemvalue="Python.402_k_divisible_elements" />
+        <item itemvalue="Python.1642_farthest_building" />
+        <item itemvalue="Python.54_spiral_matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -200,11 +229,142 @@
           <line>18</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/1143_lcs.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/1143_lcs.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/sliding_window/209_minimum_size_subarray.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/sliding_window/209_minimum_size_subarray.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/sliding_window/209_minimum_size_subarray.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/sliding_window/718_lcs.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/strings/151_reverse_string.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/146_lru_cache.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/146_lru_cache.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/146_lru_cache.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/146_lru_cache.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/arrays/48_rotate_image.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/arrays/54_spiral_matrix.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/greedy/1642_farthest_building.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/greedy/1642_farthest_building.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode/greedy/1642_farthest_building.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="times_map" />
+        <watch expression="end_row" />
+        <watch expression="start_row" />
+        <watch expression="start_column" />
+        <watch expression="end_column" />
       </configuration>
     </watches-manager>
   </component>
